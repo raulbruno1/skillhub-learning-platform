@@ -1,5 +1,7 @@
-# TP DSW
-Este proyecto fue desarrollado para la materia Desarrollo de Software de la UTN Rosario. Fue creado en su totalidad por los alumnos Julián Vera y Raúl Bruno.
+# Skillhub – Online Learning Platform
+
+Aplicación web de aprendizaje desarrollada como proyecto académico para la materia Desarrollo de Software (UTN Rosario).
+
 
 ## Integrantes:
 - Bruno, Raúl  |  Legajo: 47826
